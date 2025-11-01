@@ -5,5 +5,6 @@
 
   The user can build custom mazes, place start and end nodes, choose an algorithm, and watch the search process unfold step-by-step. Each algorithm behaves differently, and the software allows users to compare them based on time taken, number of visited nodes, path length, and efficiency.
 
-  Educational Tool – Helps students learn how algorithms like BFS, DFS, Dijkstra’s, and A* actually work internally.
-  Algorithm Comparison – Suitable for studying performance differences between uninformed and informed search techniques.
+  It's an Educational Tool – Helps students learn how algorithms like BFS, DFS, Dijkstra’s, and A* actually work internally.
+  
+  Can Compare Algorithms – Suitable for studying performance differences between uninformed and informed search techniques.
